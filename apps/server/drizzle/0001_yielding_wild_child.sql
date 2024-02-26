@@ -1,0 +1,1 @@
+ALTER TABLE `todo_list_items_db` DROP COLUMN `text`;
